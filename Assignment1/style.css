@@ -218,3 +218,57 @@ h2 {
 }
 
 /* second section  */
+
+.introduce {
+  margin: 48px 0;
+  padding: 20px 0;
+}
+.col1-1 {
+  flex: 0 1 40%;
+}
+.intro {
+  flex: 0 1 25%;
+}
+.about-img {
+  flex: 0 1 25%;
+}
+.about-img img {
+  width: 100%;
+}
+h3 {
+  font-size: 20px;
+}
+.col1-1 p {
+  margin: 12px 0;
+  font-size: 14px;
+  color: #797979;
+}
+.square {
+  width: 8px;
+  height: 8px;
+  background-color: #b6b5b5;
+  display: inline-block;
+}
+.intro p {
+  padding-bottom: 8px;
+  border-bottom: 2px solid black;
+}
+.intro li {
+  font-size: 14px;
+  margin: 2px;
+}
+.intro span {
+  padding: 12px;
+}
+.eighty-five {
+  width: 180px;
+}
+.ninty {
+  width: 200px;
+}
+.seventy-five {
+  width: 150px;
+}
+.seventy {
+  width: 120px;
+}
